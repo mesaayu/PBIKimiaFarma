@@ -1,4 +1,4 @@
-# PBIKimiaFarma
+# Project Based Internship Kimia Farma x Rakamin Academy
 
 This project discusses the evaluation of Kimia Farma business performance from 2020 to 2023. The data used 
 consists of 4 datasets which include transaction, inventory, branch and product information. The process begins 
@@ -13,3 +13,6 @@ Step:
 2. BigQuery Syntax:  Second step, aggregate the 4 tables with the columns needed to create a data mart table with Left Join syntax.
 3. Tabel Analisa:  the results of querying the analysis table or what can be called Data Mart
 4. Dashboard  Performance Analytics: The final step, analysis dashboard based on the data mart table that was created previously
+
+   <img width="669" alt="Dashboard " src="https://github.com/user-attachments/assets/5b235d61-3146-4cbe-9f6e-29dcbac2bc69">
+
