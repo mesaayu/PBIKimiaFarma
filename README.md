@@ -14,5 +14,6 @@ Step:
 3. Tabel Analisa:  the results of querying the analysis table or what can be called Data Mart
 4. Dashboard  Performance Analytics: The final step, analysis dashboard based on the data mart table that was created previously
 
-   <img width="669" alt="Dashboard " src="https://github.com/user-attachments/assets/5b235d61-3146-4cbe-9f6e-29dcbac2bc69">
+   <img width="670" alt="Dashboard" src="https://github.com/user-attachments/assets/6f1d33a2-6dae-4df1-8380-db4cab6df1f7">
+
 
